@@ -4,4 +4,5 @@
 * [学习指南](tutorial/README.md)
 * [实用技巧](tips/README.md)
 * [乱弹一气](gossip/README.md)
+* [github](github/README.md)
 
